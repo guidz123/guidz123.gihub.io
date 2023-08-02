@@ -1,0 +1,3 @@
+<Response>
+    <Say voice="alice">Olá, esta é uma mensagem personalizada do Twilio. Obrigado por ligar.</Say>
+</Response>
